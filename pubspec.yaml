@@ -1,14 +1,14 @@
 name: gluc_prev
-description: A sample command-line application.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+description: Glucose prediction.
+version: 1.0.1
+# repository: https://github.com/septerional/gluc-prev
 
 environment:
   sdk: ^3.5.4
 
 # Add regular dependencies here.
 dependencies:
-  # path: ^1.8.0
+  path: ^1.8.0
 
 dev_dependencies:
   lints: ^4.0.0

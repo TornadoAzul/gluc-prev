@@ -5,7 +5,7 @@
 **Developed by Septerional**
 
 **Research at Barceloneta Intelligence Complex.**
-**By Agents: 1,23,31,56,89 & 90.**
+**By Agents: 1, 23, 31, 56, 89 & 90.**
 
 A sophisticated Dart application for calculating the TyG (Triglycerides and Glucose) Index and predicting future glucose levels based on key metabolic parameters.
 
